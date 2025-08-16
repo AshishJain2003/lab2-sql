@@ -61,4 +61,4 @@ Name: Ashish Jain
 ---
 
 ## Git Repository
-GitHub Repo Link: <paste your repo link here>
+GitHub Repo Link: https://github.com/AshishJain2003/lab2-sql/tree/main
